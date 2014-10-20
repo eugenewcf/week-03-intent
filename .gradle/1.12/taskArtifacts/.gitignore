@@ -1,0 +1,6 @@
+/taskArtifacts.bin
+/outputFileStates.bin
+/fileSnapshots.bin
+/fileHashes.bin
+/cache.properties.lock
+*.properties
